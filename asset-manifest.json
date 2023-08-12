@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tinCansProject/static/css/main.cc87bb53.css",
+    "main.js": "/tinCansProject/static/js/main.aea77713.js",
+    "static/js/787.32032a02.chunk.js": "/tinCansProject/static/js/787.32032a02.chunk.js",
+    "index.html": "/tinCansProject/index.html",
+    "main.cc87bb53.css.map": "/tinCansProject/static/css/main.cc87bb53.css.map",
+    "main.aea77713.js.map": "/tinCansProject/static/js/main.aea77713.js.map",
+    "787.32032a02.chunk.js.map": "/tinCansProject/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc87bb53.css",
+    "static/js/main.aea77713.js"
+  ]
+}
