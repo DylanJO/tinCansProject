@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Orbitron:wght@900&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'Electrolize', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: 
+    linear-gradient(
+      to top right,
+      hsl(226.67, 14.75%, 23.92%) 0%,
+      hsl(247.8, 11.46%, 24.78%) 7.4%,
+      hsl(300.38, 12.51%, 25%) 14.5%,
+      hsl(327.94, 23.19%, 28.34%) 21.3%,
+      hsl(336.39, 32.09%, 31.85%) 27.9%,
+      hsl(340.05, 39.21%, 35.32%) 34.4%,
+      hsl(341.9, 44.89%, 38.63%) 40.7%,
+      hsl(342.92, 49.44%, 41.74%) 46.9%,
+      hsl(343.5, 53.11%, 44.59%) 53.1%,
+      hsl(343.84, 56.08%, 47.16%) 59.3%,
+      hsl(344.03, 58.47%, 49.42%) 65.6%,
+      hsl(344.14, 63.72%, 51.35%) 72.1%,
+      hsl(344.2, 69.48%, 52.92%) 78.7%,
+      hsl(344.23, 74.06%, 54.1%) 85.5%,
+      hsl(344.24, 77.08%, 54.84%) 92.6%,
+      hsl(344.25, 78.17%, 55.1%) 100%
+    );
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  text-transform: uppercase;
+  color: #ffd275;
+}
